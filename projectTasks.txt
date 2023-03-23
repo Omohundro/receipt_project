@@ -1,0 +1,7 @@
+user can see the items in the database
+user can choose an item to buy
+create a pdf receipt of the item purchased that contains the id, item and price
+
+Classes
+item
+receipt
